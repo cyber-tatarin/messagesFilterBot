@@ -1,0 +1,6 @@
+.env
+__pycache__
+chats.txt
+session_name.session
+session_name.session-journal
+git_dialogs.py
